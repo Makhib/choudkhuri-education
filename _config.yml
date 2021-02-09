@@ -18,11 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Choudkhuri Education for Inan and Mahreen
-subtitle: "Version 0.1"
+locale: "en-GB"
+title: Choudkhuri Education Academy
+subtitle: "Welcome to your website Inan and Mahreen!"
+name: "Makhib Choudkhuri"
 email: makhib.c@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to your website Inan and Mahreen!
+  Version 0.1
 baseurl: "/choudkhuri-education" # the subpath of your site, e.g. /blog
 url: "https://makhib.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
